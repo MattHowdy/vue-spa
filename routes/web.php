@@ -17,4 +17,7 @@ Route::get('/', function(){
 });
 
 
+Route::get('/statuses', 'StatusController@index');
+Route::post('/statuses', 'StatusController@store');
+
 Route::get('/{any}', 'SinglePageController@index')->where('any', '.*');

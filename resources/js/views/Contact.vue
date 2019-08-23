@@ -8,7 +8,7 @@
                         Contact Page
                     </div>
                     <div class="panel-body">
-                        Example
+                        Example contact
                     </div>
                 </div>
 

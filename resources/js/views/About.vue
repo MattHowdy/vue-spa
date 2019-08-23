@@ -5,10 +5,10 @@
             <div class="col-md-8 col-md-offset-2">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        About Page
+                        About Page page
                     </div>
                     <div class="panel-body">
-                        Example page
+                        Example page oops
                     </div>
                 </div>
 
@@ -22,7 +22,7 @@
 <script>
     export default {
         mounted(){
-            console.log('Component mounted')
+            console.log('About Component mounted')
         }
     }
 </script>

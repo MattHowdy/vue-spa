@@ -1,10 +1,10 @@
 
-// alert('valami')
-
 import VueRouter from 'vue-router'
 import Vue from 'vue'
 
+import Form from './utilities/Form'
 
+window.Form = Form
 window.Vue = Vue
 
 window._ = require('lodash');
