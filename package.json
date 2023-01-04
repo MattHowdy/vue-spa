@@ -22,7 +22,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "@vue/cli-service": "^3.11.0",
+        "@vue/cli-service": "^5.0.8",
         "moment": "^2.24.0",
         "vue": "^2.6.10",
         "vuetify": "^2.0.4"
